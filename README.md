@@ -3,6 +3,7 @@
 This repository contains the code and data for the paper on EMG-based intent detection, using transformer-based models to classify upper limb gestures. The project utilizes the EMG dataset from the IEEE DataPort, focusing specifically on EMG data to identify user intent in assistive robotics applications.
 
     Dataset: EMG Dataset for Upper Limb Gesture Classification
+    Link: https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification
     Models: Includes several transformer-based models for classification tasks.
     Goal: To develop a robust model that can classify different upper limb gestures for applications in assistive robotics.
 
