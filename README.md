@@ -1,4 +1,4 @@
-# EMGIntentPaper
+# EMG-TransNN-MHA: A Transformer-Based Model for Enhanced Motor Intent Recognition in Assistive Robotics
 
 This repository contains the code and data for the paper on EMG-based intent detection, using transformer-based models to classify upper limb gestures. The project utilizes the EMG dataset from the IEEE DataPort, focusing specifically on EMG data to identify user intent in assistive robotics applications.
 
