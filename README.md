@@ -6,13 +6,13 @@ This repository contains the code and data for the paper on EMG-based intent det
     Models: Includes several transformer-based models for classification tasks.
     Goal: To develop a robust model that can classify different upper limb gestures for applications in assistive robotics.
 
-Repository Structure
+## Repository Structure
 
     All Model.zip: Contains the trained models used for intent detection.
     EDA And Data Cleaning.zip: Includes exploratory data analysis (EDA) and data cleaning scripts.
     README.md: Documentation for understanding and using the repository.
 
-Dataset Description
+## Dataset Description
 
 The dataset used in this project is publicly available on IEEE DataPort and contains EMG data. This repository specifically uses EMG data acquired through the Myo armband with 8 channels at a 200 Hz sampling frequency. The dataset has been preprocessed for gesture classification tasks.
 Usage
