@@ -8,7 +8,7 @@ This repository contains the code and data for the paper on EMG-based intent det
 
 ## Repository Structure
 
-    All Model.zip: Contains the trained models used for intent detection.
+    All-Model-1.zip: Contains the trained models used for intent detection.
     EDA And Data Cleaning.zip: Includes exploratory data analysis (EDA) and data cleaning scripts.
     README.md: Documentation for understanding and using the repository.
 
