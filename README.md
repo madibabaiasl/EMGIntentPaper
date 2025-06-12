@@ -24,3 +24,14 @@ Usage
     Model Training and Evaluation:
         Unzip All Model.zip to access pre-trained models.
         Follow the instructions in the scripts to either retrain or evaluate the models on the dataset.
+
+## Citation
+```bash
+@inproceedings{joby2024emg,
+  title={EMG-TransNN-MHA: A Transformer-Based Model for Enhanced Motor Intent Recognition in Assistive Robotics},
+  author={Joby, Joel Aikkarakudiyil and Sikorski, Pascal and Sultan, Tipu and Akbarpour, Hadi and Esposito, Flavio and Babaiasl, Madi},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  pages={8691--8693},
+  year={2024},
+  organization={IEEE}
+}
