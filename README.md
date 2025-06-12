@@ -26,7 +26,7 @@ Usage
         Follow the instructions in the scripts to either retrain or evaluate the models on the dataset.
 
 ## Citation
-```bash
+```bibtex
 @inproceedings{joby2024emg,
   title={EMG-TransNN-MHA: A Transformer-Based Model for Enhanced Motor Intent Recognition in Assistive Robotics},
   author={Joby, Joel Aikkarakudiyil and Sikorski, Pascal and Sultan, Tipu and Akbarpour, Hadi and Esposito, Flavio and Babaiasl, Madi},
